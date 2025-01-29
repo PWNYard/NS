@@ -112,4 +112,3 @@ local InterfaceManager = {} do
 end
 
 return InterfaceManager
-Explain
